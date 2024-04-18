@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGenericRepo", "APIGenericRepo\APIGenericRepo.csproj", "{E5A7BA0B-E44D-46F1-AE79-A7DAA7DAD780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A7BA0B-E44D-46F1-AE79-A7DAA7DAD780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A7BA0B-E44D-46F1-AE79-A7DAA7DAD780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A7BA0B-E44D-46F1-AE79-A7DAA7DAD780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A7BA0B-E44D-46F1-AE79-A7DAA7DAD780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4098154B-A502-41AC-92D9-5D1880C1F7EB}
+	EndGlobalSection
+EndGlobal
